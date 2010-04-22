@@ -1,0 +1,16 @@
+Package: sixarm-debian-desktop-packages
+Version: 1.0.3
+Section: devel
+Priority: optional
+Architecture: all
+Depends: alarm-clock, amarok, anki, backintime-gnome, blender, boinc-manager, cheese, clamtk, ekiga, electricsheep, ffmpeg, gbrainy, gizmo5, gnome-shell, gparted, gufw, hamster-applet, inkscape, istanbul, jokosher, karbon, kexi, kget, kivio, kplato, krita, lastfm, libdvdcss2, libdvdread4, libtunepimp5-mp3, linuxdcpp, miro, mnemosyne, network-manager-pptp, non-free-codecs, ntp, openssh-server, parcellite, samba, scribus, sshfs, solang, twinkle, ubuntu-restricted-extras, unetbootin, wine, xclip, xmondad
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Desktop packages we like to use
+ Desktop packages we like to use together.
+
+
+
+
+
+
+
