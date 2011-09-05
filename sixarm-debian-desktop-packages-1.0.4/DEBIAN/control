@@ -3,7 +3,7 @@ Version: 1.0.4
 Section: devel
 Priority: optional
 Architecture: all
-Depends: sixarm-debian-pidgin-packages, alarm-clock, amarok, anki, avidemux, backintime-gnome, blender, boinc-manager, calibre, cd-discid, cdparanoia, cheese, clamtk, cups-pdf, ekiga, electricsheep, ffmpeg, flac, gbrainy, gpointing-device-settings, gparted, gufw, hamster-applet, inkscape, istanbul, jokosher, karbon, kexi, kget, kplato, krita, lame, lastfm, libdvdread4, libtunepimp5-mp3, linuxdcpp, miro, mnemosyne, mp3gain, network-manager-pptp, normalize-audio, ntp, openssh-server, parcellite, ruby, ruby-gnome2, samba, scribus, sound-juicer, sshfs, sysfsutils, twinkle, ubuntu-restricted-extras, unetbootin, vorbisgain, wine, xclip
+Depends: sixarm-debian-pidgin-packages, alarm-clock, amarok, anki, avidemux, backintime-gnome, blender, boinc-manager, calibre, cd-discid, cdparanoia, cheese, clamtk, cups-pdf, ekiga, electricsheep, ffmpeg, flac, gbrainy, gpointing-device-settings, gparted, gufw, hamster-applet, inkscape, istanbul, jokosher, karbon, kexi, kget, kplato, krita, lame, lastfm, libdvdread4, libtunepimp5-mp3, linuxdcpp, miro, mnemosyne, mp3gain, network-manager-pptp, normalize-audio, ntp, openssh-server, parcellite, python-tk, ruby, ruby-gnome2, samba, scribus, sound-juicer, sshfs, sysfsutils, tk, twinkle, ubuntu-restricted-extras, unetbootin, vorbisgain, wine, xclip
 Maintainer: Joel Parker Henderson <joel@sixarm.com>
 Description: Desktop packages we like to use
  Desktop packages we like to use together.
