@@ -1,4 +1,4 @@
-# SixArm.com » Debian » Desktop packages for our typical use
+# SixArm.com » Debian » <br> Desktop packages for our typical use
 
 To add our repositority	to your sources:
 
