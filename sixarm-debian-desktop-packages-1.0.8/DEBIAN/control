@@ -1,9 +1,0 @@
-Package: sixarm-debian-desktop-packages
-Version: 1.0.8
-Section: devel
-Priority: optional
-Architecture: all
-Depends: sixarm-debian-font-packages, sixarm-debian-pidgin-packages, sixarm-debian-thunderbird-packages, sixarm-debian-video-packages, sixarm-debian-virtualbox-packages, alarm-clock, amarok, anki, avidemux, backintime-gnome, blender, boinc-manager, calibre, cd-discid, cdparanoia, cheese, chromium-browser, chromium-browser-l10n, chromium-codecs-ffmpeg, chromium-codecs-ffmpeg-extra, clamtk, cups-pdf, digikam, ekiga, electricsheep, ffmpeg, flac, freeglut3-dev, gbrainy, gpointing-device-settings, gparted, gtk-redshift, gufw, hal, hamster-applet, inkscape, istanbul, jokosher, karbon, kexi, kget, kplato, krita, lame, lastfm, libdvdread4, libtunepimp5-mp3, linuxdcpp, miro, mnemosyne, mp3gain, network-manager-pptp, normalize-audio, ntp, openssh-server, parcellite, python-tk, redshift, ruby, ruby-gnome2, samba, scribus, sound-juicer, sshfs, sysfsutils, terminator, tk, twinkle, ubuntu-restricted-extras, unetbootin, vlc, vorbisgain, wine, xclip
-Maintainer: Joel Parker Henderson <joel@sixarm.com>
-Description: Desktop packages we like to use
- Desktop packages we like to use together.
