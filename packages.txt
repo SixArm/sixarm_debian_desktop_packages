@@ -1,0 +1,94 @@
+# SixArm packages in turn contain more packages.
+# See the corresponding git repositories for info.
+sixarm-debian-font-packages
+sixarm-debian-fuse-packages
+sixarm-debian-gimp-packaages
+sixarm-debian-pidgin-packages
+sixarm-debian-samba-packages
+sixarm-debian-thunderbird-packages
+sixarm-debian-video-packages
+sixarm-debian-virtualbox-packages
+
+# Platform
+ubuntu-restricted-extras
+wine
+
+# Browsers
+chromium-browser
+chromium-browser-l10n
+chromium-codecs-ffmpeg
+chromium-codecs-ffmpeg-extra
+firefox
+
+# Design
+gimp
+inkscape
+
+# Media
+amarok
+calibre
+cd-discid
+cdparanoia
+sound-juicer
+vlc
+vorbisgain
+
+# Languages for desktop scripting
+python
+python-tk
+ruby
+ruby-gnome2
+
+# Uncategorized
+alarm-clock
+anki
+avidemux
+backintime-gnome
+blender
+boinc-manager
+cheese
+clamtk
+cups-pdf
+digikam
+ekiga
+electricsheep
+ffmpeg
+flac
+freeglut3-dev
+gbrainy
+gpointing-device-settings
+gparted
+gtk-redshift
+gufw
+hal
+hamster-applet
+istanbul
+jokosher
+karbon
+kexi
+kget
+kplato
+krita
+lame
+lastfm
+libdvdread4
+libtunepimp5-mp3
+linuxdcpp
+miro
+mnemosyne
+mp3gain
+network-manager-pptp
+normalize-audio
+ntp
+openssh-server
+parcellite
+redshift
+samba
+scribus
+sshfs
+sysfsutils
+terminator
+tk
+twinkle
+unetbootin
+xclip
